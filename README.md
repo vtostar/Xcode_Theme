@@ -1,5 +1,11 @@
-# Xcode_Theme
-Xcode 多种自定义主题
+# Xcode 多种自定义主题
+
+## Installation
+1. Copy the theme(s) to the folder (`~/Library/Developer/Xcode/UserData/FontAndColorThemes/`).
+2. Restart Xcode.
+3. Prefrences->Fonts & Colors.
+
+## Themes
 
 ### Darkcloud
 ![Darkcloud](http://damir.me/system/u/manual/darkcloud.jpg)  
@@ -98,9 +104,6 @@ Adobe's open source font. Recommended!<br>
 ![Ubuntu Mono](http://damir.me/system/u/manual/fonts/ubuntu-mono.png)
 
 
-## Installation
-1. Copy the theme(s) to the folder (`~/Library/Developer/Xcode/UserData/FontAndColorThemes/`).
-2. Restart Xcode.
-3. .
+
 
 
